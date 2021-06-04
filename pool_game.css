@@ -1,0 +1,35 @@
+#canvas{
+
+  margin: auto;
+  /* border:5px solid black; */
+
+}
+
+body{
+  background-color: lightblue;
+}
+
+#yellow-ball{
+  display: none;
+}
+
+#stick{
+  display:none;
+
+}
+
+.balls{
+  display: none;
+}
+
+#table{
+  display:none;
+}
+
+#table-div{
+  text-align: center;
+}
+
+/* body{
+  background-color:blue;
+} */
